@@ -1,3 +1,6 @@
 First Row in First.txt
+<<<<<<< HEAD
 Another second row
+=======
 Second Row in First.txt
+>>>>>>> a541
